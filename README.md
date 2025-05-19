@@ -13,8 +13,8 @@ I aim to build a career in the automotive industry where I can apply my skills i
   </p>
 
 <img align="right"  src="https://user-images.githubusercontent.com/53329034/123502306-0fcdfc80-d669-11eb-87e4-d24cccfbbd00.gif" />
-<br><br>
 
+---
 ### 🚀 About Me
 
 - 🔭 I’m currently working on: **[Self Ordering Juice Bar System](#)**  
