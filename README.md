@@ -55,6 +55,14 @@ I aim to build a career in the automotive industry where I can apply my skills i
 
 
 
+<h2 align="center">🌐 Connect with Me </h2>
+<p align="center">
+<!--   <a href="https://www.linkedin.com/in/sathmi-ruwanya" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://fb.com/lewke.bandara" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a> -->
+  <a href="https://instagram.com/ruwanya_lewke" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+</p>
+
+
 ---
 
 ### 📊 GitHub Stats
