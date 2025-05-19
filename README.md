@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ruwanya Lewke Bandara</h1>
-<h3 align="center">A passionate frontend developer and mechanical engineering enthusiast from Sri Lanka 🇱🇰</h3>
+<h3 align="center">A passionate frontend developer and mechanical engineering enthusiast from Sri Lanka</h3>
 
 <p align="center">
+  🚗 My Ambition
+I aspire to work in a vehicle company where I can contribute to both the software systems that power modern vehicles and the maintenance of engine components. My goal is to bridge the gap between mechanical systems and intelligent software, helping to innovate in areas like diagnostics, automation, and vehicle performance.
+  
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2NkbThtNGRhdWZ2am9wM2ZwaDY1MHdyY3k0MHlxcmtyY3g1anlxayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZgTR3UQ9vNtcFMuZk0/giphy.gif" alt="coding girl" width="300"/>
 </p>
 
