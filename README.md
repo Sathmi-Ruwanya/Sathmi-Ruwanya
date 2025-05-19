@@ -1,21 +1,18 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> , I'm Ruwanya Lewke Bandara</h1>
 <h3 align="center">A passionate frontend developer and mechanical engineering enthusiast from Sri Lanka</h3>
 
+<p align="center">
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?color=FE64D9&center=true&lines=Software+Engineer;Mechanical+Engineer;Open+Source+Enthusiast&center=true&width=400&height=45" alt="Typing SVG">
 </a>
-
+</p>
 
 <p align="center">
   <h4>🚗 My Ambition </h4>
-I aspire to work in a vehicle company where I can contribute to both the software systems that power modern vehicles and the maintenance of engine components. My goal is to bridge the gap between mechanical systems and intelligent software, helping to innovate in areas like diagnostics, automation, and vehicle performance.
+I aim to build a career in the automotive industry where I can apply my skills in both software development and mechanical engineering. I want to contribute to creating smart, efficient vehicle systems by integrating advanced software solutions with mechanical expertise. My goal is to drive innovation in vehicle diagnostics, automation, and performance optimization, bridging the gap between mechanical components and intelligent technology to shape the future of transportation.
   </p>
 
-  <p align="center">
- <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbS..." alt="Woman repairing car" width="500">
-
-</p>
-
+<img align="right"  src="https://user-images.githubusercontent.com/53329034/123502306-0fcdfc80-d669-11eb-87e4-d24cccfbbd00.gif" />
 ---
 
 ### 🚀 About Me
