@@ -25,8 +25,11 @@ I aim to build a career in the automotive industry where I can apply my skills i
 - 📫 Reach me at: **ruwanyalewkebandara@gmail.com**  
 - 📄 View my CV: [Click here](#)
 
----
 
+<br>
+<br>
+<br>
+<br>
 <h2 align="center">🌐 Connect with Me </h2>
 
 <p align="center">
