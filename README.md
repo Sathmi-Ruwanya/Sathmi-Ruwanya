@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ruwanya Lewke Bandara</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> , I'm Ruwanya Lewke Bandara</h1>
 <h3 align="center">A passionate frontend developer and mechanical engineering enthusiast from Sri Lanka</h3>
 
 <p align="center">
