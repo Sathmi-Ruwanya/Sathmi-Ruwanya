@@ -30,8 +30,6 @@ I aim to build a career in the automotive industry where I can apply my skills i
 <br>
 <br>
 <br>
-<h2 align="center">🌐 Connect with Me </h2>
-
 
 
 ---
