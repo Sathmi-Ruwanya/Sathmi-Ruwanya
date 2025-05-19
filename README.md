@@ -1,6 +1,11 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> , I'm Ruwanya Lewke Bandara</h1>
 <h3 align="center">A passionate frontend developer and mechanical engineering enthusiast from Sri Lanka</h3>
 
+<a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FE64D9&center=true&lines=Software+Engineer;Mechanical+Engineer;Open+Source+Enthusiast&center=true&width=400&height=45" alt="Typing SVG">
+</a>
+
+
 <p align="center">
   <h4>🚗 My Ambition </h4>
 I aspire to work in a vehicle company where I can contribute to both the software systems that power modern vehicles and the maintenance of engine components. My goal is to bridge the gap between mechanical systems and intelligent software, helping to innovate in areas like diagnostics, automation, and vehicle performance.
