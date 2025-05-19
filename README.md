@@ -8,12 +8,12 @@
 </p>
 
 <p align="center">
-  <h4>🚗 My Ambition </h4>
+  <h3 align="center" >🚗 My Ambition </h3>
 I aim to build a career in the automotive industry where I can apply my skills in both software development and mechanical engineering. I want to contribute to creating smart, efficient vehicle systems by integrating advanced software solutions with mechanical expertise. My goal is to drive innovation in vehicle diagnostics, automation, and performance optimization, bridging the gap between mechanical components and intelligent technology to shape the future of transportation.
   </p>
 
 <img align="right"  src="https://user-images.githubusercontent.com/53329034/123502306-0fcdfc80-d669-11eb-87e4-d24cccfbbd00.gif" />
----
+<br><br>
 
 ### 🚀 About Me
 
@@ -62,8 +62,11 @@ I aim to build a career in the automotive industry where I can apply my skills i
 ---
 
 ### 📊 GitHub Stats
-
-![Ruwanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sathmi-Ruwanya&show_icons=true&theme=radical)
+<!-- GitHub Readme Stats and Top Languages -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sathmi-Ruwanya&show_icons=true&theme=jolly" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sathmi-Ruwanya&layout=compact&theme=jolly&langs_count=10" alt="Top Languages" width="40%"/>
+</p>
 
 ---
 
